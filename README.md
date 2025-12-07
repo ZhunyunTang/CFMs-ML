@@ -4,4 +4,4 @@ Email: 1207375975@qq.com
 
 Reference:
 
-Z. Tang et al.,  [ ]( )
+Z. Tang et al.,  [Adv. Funct. Mater. 2025, e26344](https://doi.org/10.1002/adfm.202526344)
